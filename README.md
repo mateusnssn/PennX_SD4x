@@ -18,4 +18,4 @@ Server-side JavaScript is becoming more prevalent in the industry, with web fram
 * HTML, CSS, RWD
 * HTTP Overview
 
-- [x] Homework 1: convert an existing HTML page that uses inline style attributes to a page that uses an external CSS file.
+- [x] **Homework 1:** convert an existing HTML page that uses inline style attributes to a page that uses an external CSS file.
