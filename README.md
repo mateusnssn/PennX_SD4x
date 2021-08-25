@@ -10,3 +10,12 @@ This course will also introduce you to modern web frameworks and component-based
 
 Server-side JavaScript is becoming more prevalent in the industry, with web frameworks such as Node.js and Express making it simple to create and deploy complex, data-driven web applications. This course will prepare you to use such frameworks and show you how to integrate them with NoSQL databases such as MongoDB."
 
+
+## Week 1: Web Programming Basics
+
+
+* Basics of the World Wide Web
+* HTML, CSS, RWD
+* HTTP Overview
+
+- [x] Homework 1: convert an existing HTML page that uses inline style attributes to a page that uses an external CSS file.
